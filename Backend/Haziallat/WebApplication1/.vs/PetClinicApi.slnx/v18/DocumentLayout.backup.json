@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E43EEE5D-439F-1B32-8A83-CEE3AF49816E}|WebApplication1\\PetClinicApi.csproj|c:\\users\\user\\source\\repos\\webapplication1\\webapplication1\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E43EEE5D-439F-1B32-8A83-CEE3AF49816E}|WebApplication1\\PetClinicApi.csproj|solutionrelative:webapplication1\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43EEE5D-439F-1B32-8A83-CEE3AF49816E}|WebApplication1\\PetClinicApi.csproj|c:\\users\\user\\source\\repos\\webapplication1\\webapplication1\\models\\petdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E43EEE5D-439F-1B32-8A83-CEE3AF49816E}|WebApplication1\\PetClinicApi.csproj|solutionrelative:webapplication1\\models\\petdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43EEE5D-439F-1B32-8A83-CEE3AF49816E}|WebApplication1\\PetClinicApi.csproj|c:\\users\\user\\source\\repos\\webapplication1\\webapplication1\\controllers\\ownerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E43EEE5D-439F-1B32-8A83-CEE3AF49816E}|WebApplication1\\PetClinicApi.csproj|solutionrelative:webapplication1\\controllers\\ownerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43EEE5D-439F-1B32-8A83-CEE3AF49816E}|WebApplication1\\PetClinicApi.csproj|c:\\users\\user\\source\\repos\\webapplication1\\webapplication1\\data\\petclininccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E43EEE5D-439F-1B32-8A83-CEE3AF49816E}|WebApplication1\\PetClinicApi.csproj|solutionrelative:webapplication1\\data\\petclininccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43EEE5D-439F-1B32-8A83-CEE3AF49816E}|WebApplication1\\PetClinicApi.csproj|c:\\users\\user\\source\\repos\\webapplication1\\webapplication1\\entities\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E43EEE5D-439F-1B32-8A83-CEE3AF49816E}|WebApplication1\\PetClinicApi.csproj|solutionrelative:webapplication1\\entities\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43EEE5D-439F-1B32-8A83-CEE3AF49816E}|WebApplication1\\PetClinicApi.csproj|c:\\users\\user\\source\\repos\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E43EEE5D-439F-1B32-8A83-CEE3AF49816E}|WebApplication1\\PetClinicApi.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43EEE5D-439F-1B32-8A83-CEE3AF49816E}|WebApplication1\\PetClinicApi.csproj|c:\\users\\user\\source\\repos\\webapplication1\\webapplication1\\models\\ownerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E43EEE5D-439F-1B32-8A83-CEE3AF49816E}|WebApplication1\\PetClinicApi.csproj|solutionrelative:webapplication1\\models\\ownerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43EEE5D-439F-1B32-8A83-CEE3AF49816E}|WebApplication1\\PetClinicApi.csproj|c:\\users\\user\\source\\repos\\webapplication1\\webapplication1\\entities\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E43EEE5D-439F-1B32-8A83-CEE3AF49816E}|WebApplication1\\PetClinicApi.csproj|solutionrelative:webapplication1\\entities\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PetsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\PetsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PetsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\PetsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\PetsController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAA6wG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T13:17:51.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T11:22:20.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OwnersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\OwnersController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\OwnersController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\OwnersController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\OwnersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T11:21:14.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PetDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebApplication1\\WebApplication1\\Models\\PetDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\PetDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebApplication1\\WebApplication1\\Models\\PetDto.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\PetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T11:20:25.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OwnerDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebApplication1\\WebApplication1\\Models\\OwnerDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\OwnerDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebApplication1\\WebApplication1\\Models\\OwnerDto.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\OwnerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T11:20:17.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebApplication1\\WebApplication1\\Entities\\Owner.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Entities\\Owner.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebApplication1\\WebApplication1\\Entities\\Owner.cs",
+              "RelativeToolTip": "WebApplication1\\Entities\\Owner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T11:18:47.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebApplication1\\WebApplication1\\Entities\\Pet.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Entities\\Pet.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebApplication1\\WebApplication1\\Entities\\Pet.cs",
+              "RelativeToolTip": "WebApplication1\\Entities\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T11:18:42.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PetClinincContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebApplication1\\WebApplication1\\Data\\PetClinincContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\PetClinincContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebApplication1\\WebApplication1\\Data\\PetClinincContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\PetClinincContext.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T11:18:22.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
