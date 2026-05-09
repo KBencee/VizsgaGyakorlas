@@ -1,0 +1,49 @@
+﻿@page
+@model TuraRandi.Pages.DetailsModel
+
+@{
+    ViewData["Title"] = "Részletek";
+}
+
+<h1>Részletek</h1>
+
+<div>
+    <h4>Testimonial</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Testimonial.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Testimonial.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Testimonial.Age)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Testimonial.Age)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Testimonial.Location)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Testimonial.Location)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Testimonial.TestimonialText)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Testimonial.TestimonialText)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Testimonial.ImageUrl)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Testimonial.ImageUrl)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Testimonial.Id">Szerkesztés</a> |
+    <a asp-page="./Admin">Vissza a bejegyzések listájához</a>
+</div>

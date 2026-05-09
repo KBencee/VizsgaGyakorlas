@@ -1,0 +1,56 @@
+﻿@page
+@model TuraRandi.Pages.CreateModel
+
+@{
+    ViewData["Title"] = "Új bejegyzés";
+}
+
+<h1>Új bejegyzés</h1>
+
+<h4>Testimonial</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <span class="text-danger">*</span>
+                <label asp-for="Testimonial.Name" class="control-label"></label>
+                <input asp-for="Testimonial.Name" class="form-control" />
+                <span asp-validation-for="Testimonial.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Testimonial.Age" class="control-label"></label>
+                <input asp-for="Testimonial.Age" class="form-control" />
+                <span asp-validation-for="Testimonial.Age" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Testimonial.Location" class="control-label"></label>
+                <input asp-for="Testimonial.Location" class="form-control" />
+                <span asp-validation-for="Testimonial.Location" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <span class="text-danger">*</span>
+                <label asp-for="Testimonial.TestimonialText" class="control-label"></label>
+                <input asp-for="Testimonial.TestimonialText" class="form-control" />
+                <span asp-validation-for="Testimonial.TestimonialText" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Testimonial.ImageUrl" class="control-label"></label>
+                <input asp-for="Testimonial.ImageUrl" class="form-control" />
+                <span asp-validation-for="Testimonial.ImageUrl" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Létrehozás" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Admin">Vissza a bejegyzések listájához</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

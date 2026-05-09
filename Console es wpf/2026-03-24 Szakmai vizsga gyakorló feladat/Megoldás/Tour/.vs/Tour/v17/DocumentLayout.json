@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\13f\\Tour\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B559F43-527A-453C-A856-0EDD4BCDD205}|Tour\\Tour.csproj|c:\\13f\\tour\\tour\\feladat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B559F43-527A-453C-A856-0EDD4BCDD205}|Tour\\Tour.csproj|solutionrelative:tour\\feladat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B559F43-527A-453C-A856-0EDD4BCDD205}|Tour\\Tour.csproj|c:\\13f\\tour\\tour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B559F43-527A-453C-A856-0EDD4BCDD205}|Tour\\Tour.csproj|solutionrelative:tour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B559F43-527A-453C-A856-0EDD4BCDD205}|Tour\\Tour.csproj|c:\\13f\\tour\\tour\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B559F43-527A-453C-A856-0EDD4BCDD205}|Tour\\Tour.csproj|solutionrelative:tour\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B559F43-527A-453C-A856-0EDD4BCDD205}|Tour\\Tour.csproj|c:\\13f\\tour\\tour\\tour.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0B559F43-527A-453C-A856-0EDD4BCDD205}|Tour\\Tour.csproj|solutionrelative:tour\\tour.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tour.csv",
+              "DocumentMoniker": "C:\\13f\\Tour\\Tour\\tour.csv",
+              "RelativeDocumentMoniker": "Tour\\tour.csv",
+              "ToolTip": "C:\\13f\\Tour\\Tour\\tour.csv",
+              "RelativeToolTip": "Tour\\tour.csv",
+              "ViewState": "AgIAAPoBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-04-21T11:20:46.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Feladat.cs",
+              "DocumentMoniker": "C:\\13f\\Tour\\Tour\\Feladat.cs",
+              "RelativeDocumentMoniker": "Tour\\Feladat.cs",
+              "ToolTip": "C:\\13f\\Tour\\Tour\\Feladat.cs",
+              "RelativeToolTip": "Tour\\Feladat.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAswD0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:20:24.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Versenyzo.cs",
+              "DocumentMoniker": "C:\\13f\\Tour\\Tour\\Versenyzo.cs",
+              "RelativeDocumentMoniker": "Tour\\Versenyzo.cs",
+              "ToolTip": "C:\\13f\\Tour\\Tour\\Versenyzo.cs",
+              "RelativeToolTip": "Tour\\Versenyzo.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA7wCEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:16:14.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\13f\\Tour\\Tour\\Program.cs",
+              "RelativeDocumentMoniker": "Tour\\Program.cs",
+              "ToolTip": "C:\\13f\\Tour\\Tour\\Program.cs",
+              "RelativeToolTip": "Tour\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:15:24.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

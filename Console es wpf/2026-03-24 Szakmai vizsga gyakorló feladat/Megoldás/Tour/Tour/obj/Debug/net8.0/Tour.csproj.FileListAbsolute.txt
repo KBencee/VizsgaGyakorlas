@@ -1,0 +1,15 @@
+C:\13f\Tour\Tour\bin\Debug\net8.0\tour.csv
+C:\13f\Tour\Tour\bin\Debug\net8.0\Tour.exe
+C:\13f\Tour\Tour\bin\Debug\net8.0\Tour.deps.json
+C:\13f\Tour\Tour\bin\Debug\net8.0\Tour.runtimeconfig.json
+C:\13f\Tour\Tour\bin\Debug\net8.0\Tour.dll
+C:\13f\Tour\Tour\bin\Debug\net8.0\Tour.pdb
+C:\13f\Tour\Tour\obj\Debug\net8.0\Tour.GeneratedMSBuildEditorConfig.editorconfig
+C:\13f\Tour\Tour\obj\Debug\net8.0\Tour.AssemblyInfoInputs.cache
+C:\13f\Tour\Tour\obj\Debug\net8.0\Tour.AssemblyInfo.cs
+C:\13f\Tour\Tour\obj\Debug\net8.0\Tour.csproj.CoreCompileInputs.cache
+C:\13f\Tour\Tour\obj\Debug\net8.0\Tour.dll
+C:\13f\Tour\Tour\obj\Debug\net8.0\refint\Tour.dll
+C:\13f\Tour\Tour\obj\Debug\net8.0\Tour.pdb
+C:\13f\Tour\Tour\obj\Debug\net8.0\Tour.genruntimeconfig.cache
+C:\13f\Tour\Tour\obj\Debug\net8.0\ref\Tour.dll

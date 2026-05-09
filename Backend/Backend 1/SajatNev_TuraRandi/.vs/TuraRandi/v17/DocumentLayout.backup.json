@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dev\\VizsgaMinta2025\\Backend 1\\SajatNev_TuraRandi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|d:\\dev\\vizsgaminta2025\\backend 1\\sajatnev_turarandi\\turarandi\\controllers\\appcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|solutionrelative:turarandi\\controllers\\appcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|d:\\dev\\vizsgaminta2025\\backend 1\\sajatnev_turarandi\\turarandi\\data\\turarandidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|solutionrelative:turarandi\\data\\turarandidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|d:\\dev\\vizsgaminta2025\\backend 1\\sajatnev_turarandi\\turarandi\\models\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|solutionrelative:turarandi\\models\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|d:\\dev\\vizsgaminta2025\\backend 1\\sajatnev_turarandi\\turarandi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|solutionrelative:turarandi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppController.cs",
+              "DocumentMoniker": "D:\\dev\\VizsgaMinta2025\\Backend 1\\SajatNev_TuraRandi\\TuraRandi\\Controllers\\AppController.cs",
+              "RelativeDocumentMoniker": "TuraRandi\\Controllers\\AppController.cs",
+              "ToolTip": "D:\\dev\\VizsgaMinta2025\\Backend 1\\SajatNev_TuraRandi\\TuraRandi\\Controllers\\AppController.cs",
+              "RelativeToolTip": "TuraRandi\\Controllers\\AppController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:45:03.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TuraRandiDbContext.cs",
+              "DocumentMoniker": "D:\\dev\\VizsgaMinta2025\\Backend 1\\SajatNev_TuraRandi\\TuraRandi\\Data\\TuraRandiDbContext.cs",
+              "RelativeDocumentMoniker": "TuraRandi\\Data\\TuraRandiDbContext.cs",
+              "ToolTip": "D:\\dev\\VizsgaMinta2025\\Backend 1\\SajatNev_TuraRandi\\TuraRandi\\Data\\TuraRandiDbContext.cs",
+              "RelativeToolTip": "TuraRandi\\Data\\TuraRandiDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:44:45.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Testimonial.cs",
+              "DocumentMoniker": "D:\\dev\\VizsgaMinta2025\\Backend 1\\SajatNev_TuraRandi\\TuraRandi\\Models\\Testimonial.cs",
+              "RelativeDocumentMoniker": "TuraRandi\\Models\\Testimonial.cs",
+              "ToolTip": "D:\\dev\\VizsgaMinta2025\\Backend 1\\SajatNev_TuraRandi\\TuraRandi\\Models\\Testimonial.cs",
+              "RelativeToolTip": "TuraRandi\\Models\\Testimonial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:44:41.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dev\\VizsgaMinta2025\\Backend 1\\SajatNev_TuraRandi\\TuraRandi\\Program.cs",
+              "RelativeDocumentMoniker": "TuraRandi\\Program.cs",
+              "ToolTip": "D:\\dev\\VizsgaMinta2025\\Backend 1\\SajatNev_TuraRandi\\TuraRandi\\Program.cs",
+              "RelativeToolTip": "TuraRandi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:44:32.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+﻿@page
+@model TuraRandi.Pages.IndexModel
+
+@{
+    ViewData["Title"] = "Admin oldal";
+}
+
+<h1>Admin oldal</h1>
+
+<p>
+    <a asp-page="Create">Új bejegyzés</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Testimonial[0].Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Testimonial[0].Age)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Testimonial[0].Location)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Testimonial[0].TestimonialText)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Testimonial[0].ImageUrl)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Testimonial) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Age)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Location)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TestimonialText)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ImageUrl)
+            </td>
+            <td>
+                <a asp-page="./Szerkesztes" asp-route-id="@item.Id">Szerkesztés</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Részletek</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Törlés</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

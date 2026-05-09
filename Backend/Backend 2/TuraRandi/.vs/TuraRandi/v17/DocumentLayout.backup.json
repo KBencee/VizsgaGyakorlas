@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|d:\\dev\\vizsgaminta2025\\turarandi\\turarandi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|solutionrelative:turarandi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|d:\\dev\\vizsgaminta2025\\turarandi\\turarandi\\controllers\\appcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|solutionrelative:turarandi\\controllers\\appcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|d:\\dev\\vizsgaminta2025\\turarandi\\turarandi\\pages\\admin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|solutionrelative:turarandi\\pages\\admin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|d:\\dev\\vizsgaminta2025\\turarandi\\turarandi\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|solutionrelative:turarandi\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|d:\\dev\\vizsgaminta2025\\turarandi\\turarandi\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|solutionrelative:turarandi\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|d:\\dev\\vizsgaminta2025\\turarandi\\turarandi\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|solutionrelative:turarandi\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|d:\\dev\\vizsgaminta2025\\turarandi\\turarandi\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|solutionrelative:turarandi\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|d:\\dev\\vizsgaminta2025\\turarandi\\turarandi\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|solutionrelative:turarandi\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|d:\\dev\\vizsgaminta2025\\turarandi\\turarandi\\pages\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|solutionrelative:turarandi\\pages\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|d:\\dev\\vizsgaminta2025\\turarandi\\turarandi\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|solutionrelative:turarandi\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|d:\\dev\\vizsgaminta2025\\turarandi\\turarandi\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|solutionrelative:turarandi\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|d:\\dev\\vizsgaminta2025\\turarandi\\turarandi\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|solutionrelative:turarandi\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|d:\\dev\\vizsgaminta2025\\turarandi\\turarandi\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|solutionrelative:turarandi\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|d:\\dev\\vizsgaminta2025\\turarandi\\turarandi\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|solutionrelative:turarandi\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|d:\\dev\\vizsgaminta2025\\turarandi\\turarandi\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|solutionrelative:turarandi\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|d:\\dev\\vizsgaminta2025\\turarandi\\turarandi\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|solutionrelative:turarandi\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|d:\\dev\\vizsgaminta2025\\turarandi\\turarandi\\data\\turarandidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|solutionrelative:turarandi\\data\\turarandidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|d:\\dev\\vizsgaminta2025\\turarandi\\turarandi\\models\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|solutionrelative:turarandi\\models\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|d:\\dev\\vizsgaminta2025\\turarandi\\turarandi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D41C8E9-AA26-4133-B143-85D2E32A3E57}|TuraRandi\\TuraRandi.csproj|solutionrelative:turarandi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "TuraRandi\\Pages\\Details.cshtml.cs",
+              "ToolTip": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Details.cshtml.cs",
+              "RelativeToolTip": "TuraRandi\\Pages\\Details.cshtml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:14:08.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Create.cshtml",
+              "RelativeDocumentMoniker": "TuraRandi\\Pages\\Create.cshtml",
+              "ToolTip": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Create.cshtml",
+              "RelativeToolTip": "TuraRandi\\Pages\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T06:14:07.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Admin.cshtml",
+              "RelativeDocumentMoniker": "TuraRandi\\Pages\\Admin.cshtml",
+              "ToolTip": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Admin.cshtml",
+              "RelativeToolTip": "TuraRandi\\Pages\\Admin.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T06:14:08.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TuraRandi\\Pages\\Delete.cshtml",
+              "ToolTip": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Delete.cshtml",
+              "RelativeToolTip": "TuraRandi\\Pages\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T06:14:08.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Details.cshtml",
+              "RelativeDocumentMoniker": "TuraRandi\\Pages\\Details.cshtml",
+              "ToolTip": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Details.cshtml",
+              "RelativeToolTip": "TuraRandi\\Pages\\Details.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T06:14:08.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppController.cs",
+              "DocumentMoniker": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Controllers\\AppController.cs",
+              "RelativeDocumentMoniker": "TuraRandi\\Controllers\\AppController.cs",
+              "ToolTip": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Controllers\\AppController.cs",
+              "RelativeToolTip": "TuraRandi\\Controllers\\AppController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:36:30.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cshtml.cs",
+              "DocumentMoniker": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Admin.cshtml.cs",
+              "RelativeDocumentMoniker": "TuraRandi\\Pages\\Admin.cshtml.cs",
+              "ToolTip": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Admin.cshtml.cs",
+              "RelativeToolTip": "TuraRandi\\Pages\\Admin.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:14:08.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Program.cs",
+              "RelativeDocumentMoniker": "TuraRandi\\Program.cs",
+              "ToolTip": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Program.cs",
+              "RelativeToolTip": "TuraRandi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:22:19.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "TuraRandi\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Error.cshtml",
+              "RelativeToolTip": "TuraRandi\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T06:53:24.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "TuraRandi\\Pages\\Error.cshtml.cs",
+              "ToolTip": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "TuraRandi\\Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:47:09.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "TuraRandi\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "TuraRandi\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:47:16.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TuraRandi\\Pages\\Edit.cshtml",
+              "ToolTip": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Edit.cshtml",
+              "RelativeToolTip": "TuraRandi\\Pages\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T06:14:08.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "TuraRandi\\Pages\\Delete.cshtml.cs",
+              "ToolTip": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Delete.cshtml.cs",
+              "RelativeToolTip": "TuraRandi\\Pages\\Delete.cshtml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:14:08.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TuraRandi\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TuraRandi\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T06:25:15.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "TuraRandi\\Pages\\Create.cshtml.cs",
+              "ToolTip": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Create.cshtml.cs",
+              "RelativeToolTip": "TuraRandi\\Pages\\Create.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwCgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:14:08.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "TuraRandi\\Pages\\Edit.cshtml.cs",
+              "ToolTip": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Pages\\Edit.cshtml.cs",
+              "RelativeToolTip": "TuraRandi\\Pages\\Edit.cshtml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwEQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:14:08.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\appsettings.json",
+              "RelativeDocumentMoniker": "TuraRandi\\appsettings.json",
+              "ToolTip": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\appsettings.json",
+              "RelativeToolTip": "TuraRandi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-31T11:54:32.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Testimonial.cs",
+              "DocumentMoniker": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Models\\Testimonial.cs",
+              "RelativeDocumentMoniker": "TuraRandi\\Models\\Testimonial.cs",
+              "ToolTip": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Models\\Testimonial.cs",
+              "RelativeToolTip": "TuraRandi\\Models\\Testimonial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:49:43.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TuraRandiDbContext.cs",
+              "DocumentMoniker": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Data\\TuraRandiDbContext.cs",
+              "RelativeDocumentMoniker": "TuraRandi\\Data\\TuraRandiDbContext.cs",
+              "ToolTip": "D:\\dev\\VizsgaMinta2025\\TuraRandi\\TuraRandi\\Data\\TuraRandiDbContext.cs",
+              "RelativeToolTip": "TuraRandi\\Data\\TuraRandiDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:38:22.626Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
