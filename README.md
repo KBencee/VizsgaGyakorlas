@@ -1,4 +1,6 @@
-Backend vészhelyzet esetére: 
+
+### Backend vészhelyzet esetére: 
+<p>
 3 nuget package(sima, tools, sqlite)
 ((((Tutorial: Teddy Smith asp))))
 +2 könyvtár, models, data 
@@ -36,3 +38,14 @@ Bemegy a public void OnGetbe
 Csapatok = _context...
 Csak hazait akarok
 CsapatokListaja.cshtml
+</p>
+  ### Fetch apiból
+<p>
+useEffect(() => {
+    fetch("https://pokeapi.co/api/v2/pokemon?limit=100")
+        .then(res => res.json())
+        .then(apiData => {
+            setPokemonsData(apiData.results) // az API-tól függően más lehet a struktúra
+        })
+}, [])
+</p>
