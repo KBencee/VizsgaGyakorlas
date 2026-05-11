@@ -1,6 +1,6 @@
 
 ### Backend vészhelyzet esetére: 
-<p>
+```txt
 3 nuget package(sima, tools, sqlite)
 ((((Tutorial: Teddy Smith asp))))
 +2 könyvtár, models, data 
@@ -38,10 +38,10 @@ Bemegy a public void OnGetbe
 Csapatok = _context...
 Csak hazait akarok
 CsapatokListaja.cshtml
-</p>
+```
 
 ### két tábla
-<p>
+```cs
 // Egy sorozat összes epizódja
 [HttpGet("{id}/episodes")]
 public IActionResult GetEpisodes(int id)
@@ -65,11 +65,11 @@ public IActionResult GetAllWithEpisodes()
         Episodes = episodeList.Where(e => e.SeriesId == s.Id).ToList()
     });
     return Ok(result);
-</p>
+```
 
 ### minta
 
-<p>
+```cs
   [ApiController]
 [Route("api/[controller]")]
 public class SeriesController : ControllerBase
@@ -131,10 +131,10 @@ public class SeriesController : ControllerBase
         return NoContent();
     }
 }
-</p>
+```
   
   ### Fetch apiból
-<p>
+```
 useEffect(() => {
     fetch("https://pokeapi.co/api/v2/pokemon?limit=100")
         .then(res => res.json())
@@ -142,6 +142,6 @@ useEffect(() => {
             setPokemonsData(apiData.results) // az API-tól függően más lehet a struktúra
         })
 }, [])
-</p>
+```
 
 
