@@ -40,6 +40,33 @@ Csak hazait akarok
 CsapatokListaja.cshtml
 </p>
 
+### két tábla
+<p>
+// Egy sorozat összes epizódja
+[HttpGet("{id}/episodes")]
+public IActionResult GetEpisodes(int id)
+{
+    var series = seriesList.FirstOrDefault(s => s.Id == id);
+    if (series == null) return NotFound();
+
+    var episodes = episodeList.Where(e => e.SeriesId == id).ToList();
+    return Ok(episodes);
+}
+
+// Sorozatok az epizódokkal együtt (nested)
+[HttpGet("with-episodes")]
+public IActionResult GetAllWithEpisodes()
+{
+    var result = seriesList.Select(s => new
+    {
+        s.Id,
+        s.Title,
+        s.Genre,
+        Episodes = episodeList.Where(e => e.SeriesId == s.Id).ToList()
+    });
+    return Ok(result);
+</p>
+
 ### minta
 
 <p>
