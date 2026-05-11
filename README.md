@@ -39,6 +39,73 @@ Csapatok = _context...
 Csak hazait akarok
 CsapatokListaja.cshtml
 </p>
+
+### minta
+
+<p>
+  [ApiController]
+[Route("api/[controller]")]
+public class SeriesController : ControllerBase
+{
+    private static List<Series> seriesList = new List<Series>
+    {
+        new Series { Id = 1, Title = "Breaking Bad", Genre = "Drama", ReleaseYear = 2008, Rating = 9.5 },
+        new Series { Id = 2, Title = "The Office", Genre = "Comedy", ReleaseYear = 2005, Rating = 8.9 }
+    };
+
+     // GET api/series
+    [HttpGet]
+    public IActionResult GetAll()
+    {
+        return Ok(seriesList);
+    }
+
+     // GET api/series/1
+    [HttpGet("{id}")]
+    public IActionResult GetById(int id)
+    {
+        var series = seriesList.FirstOrDefault(s => s.Id == id);
+        if (series == null) return NotFound();
+        return Ok(series);
+    }
+
+    // POST api/series
+    [HttpPost]
+    public IActionResult Create([FromBody] Series newSeries)
+    {
+        newSeries.Id = seriesList.Max(s => s.Id) + 1;
+        seriesList.Add(newSeries);
+        return CreatedAtAction(nameof(GetById), new { id = newSeries.Id }, newSeries);
+    }
+
+    // PUT api/series/1
+    [HttpPut("{id}")]
+    public IActionResult Update(int id, [FromBody] Series updatedSeries)
+    {
+        var series = seriesList.FirstOrDefault(s => s.Id == id);
+        if (series == null) return NotFound();
+
+        series.Title = updatedSeries.Title;
+        series.Genre = updatedSeries.Genre;
+        series.ReleaseYear = updatedSeries.ReleaseYear;
+        series.Rating = updatedSeries.Rating;
+
+        return Ok(series);
+    }
+
+    // DELETE api/series/1
+    [HttpDelete("{id}")]
+    public IActionResult Delete(int id)
+    {
+        var series = seriesList.FirstOrDefault(s => s.Id == id);
+        if (series == null) return NotFound();
+
+        seriesList.Remove(series);
+        return NoContent();
+    }
+}
+</p>
+  
   ### Fetch apiból
 <p>
 useEffect(() => {
@@ -49,3 +116,5 @@ useEffect(() => {
         })
 }, [])
 </p>
+
+
