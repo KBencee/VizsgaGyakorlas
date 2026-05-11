@@ -144,4 +144,110 @@ useEffect(() => {
 }, [])
 ```
 
+### props
+```tsx
+// Komponens definiálása
+type SeriesCardProps = {
+  title: string;
+  genre: string;
+};
 
+function SeriesCard({ title, genre }: SeriesCardProps) {
+  return (
+    <div>
+      <h2>{title}</h2>
+      <p>{genre}</p>
+    </div>
+  );
+}
+
+// Használat
+<SeriesCard title="Breaking Bad" genre="Drama" />
+```
+
+### usestate 
+```tsx
+import { useState } from "react";
+
+function Counter() {
+  const [count, setCount] = useState(0); // kezdőérték: 0
+
+  return (
+    <div>
+      <p>Szám: {count}</p>
+      <button onClick={() => setCount(count + 1)}>Növel</button>
+      <button onClick={() => setCount(0)}>Reset</button>
+    </div>
+  );
+}
+```
+
+### useEffect
+```tsx
+import { useEffect } from "react";
+
+function App() {
+  useEffect(() => {
+    console.log("Komponens betöltődött");
+  }, []); // a [] azt jelenti: csak egyszer fusson le
+}
+```
+
+### api fetch
+```tsx
+import { useState, useEffect } from "react";
+
+type Series = {
+  id: number;
+  title: string;
+  genre: string;
+  releaseYear: number;
+};
+
+function SeriesList() {
+  const [series, setSeries] = useState<Series[]>([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    fetch("https://localhost:7001/api/Series")
+      .then((res) => res.json())
+      .then((data) => {
+        setSeries(data);
+        setLoading(false);
+      });
+  }, []);
+
+  if (loading) return <p>Betöltés...</p>;
+
+  return (
+    <ul>
+      {series.map((s) => (
+        <li key={s.id}>
+          {s.title} – {s.genre}
+        </li>
+      ))}
+    </ul>
+  );
+}
+```
+
+### post
+```tsx
+async function addSeries(newSeries: Series) {
+  await fetch("https://localhost:7001/api/Series", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(newSeries),
+  });
+}
+```
+
+### fontos
+```txt
+A legfontosabb szabályok amiket ne felejtsd el
+
+A komponens neve nagybetűvel kezdődik (SeriesCard, nem seriesCard)
+useState és useEffect csak a komponensen belül hívható
+Listáknál mindig kell key prop: <li key={s.id}>
+TypeScript típust a type kulcsszóval definiálod
+```
